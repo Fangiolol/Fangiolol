@@ -1,7 +1,6 @@
 - 👋 Opa, eu sou o Fang 
 - 👀 Faço codes, mero programador
 - 🌱 Aprendendo com a vida
-- 💞️ q porra de coração 
 - 📫 No YouTube procure por "Fang"
 
 <!---
